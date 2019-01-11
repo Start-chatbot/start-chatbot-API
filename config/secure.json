@@ -1,0 +1,16 @@
+{
+    "passwords": {
+        "fish": "qwerty",
+        "skeed": "12345"
+    },
+    "tokens": {
+        "fish": {
+            "query": 9567,
+            "value": 2152
+        },
+        "skeed": {
+            "query": 5379,
+            "value": 2988
+        }
+    }
+}

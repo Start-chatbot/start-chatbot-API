@@ -1,0 +1,11 @@
+{
+  "port": 3000,
+  "facebook": {
+    "page": {
+      "access_token": "EAAJ7ozZAFUl0BAAxTOIdiW4d7f3ZBbKgX9HEFBxrarOvlm9o8FA2ATYM8MPQHprRf5cBLlPmBl88ySvklwAyYwavL21FNGKW2Fscio6ZCUHtZB1roYnNhuEkWQ2sHMySk4ztcZB7kw5FOpLXl1ZAf27zo0tlNFJ38MCNkzMzKQ0aEHLx2kVlGE"
+    }
+  },
+  "vk": {
+    "access_token": "db6907c501f5ca04a0ac0484a521c57cecea177ca2d94983bbf6b38412c9d62bb7d78977e3a258fedb16d"
+  }
+}
